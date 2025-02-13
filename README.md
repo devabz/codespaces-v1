@@ -18,6 +18,11 @@ Now a new window appears asking you to configure your new codespace.
 ### Select Kernel
 When running the notebook for the first time, a prompt box appears for you to select the kernel. Follow this steps, mo
 
+Press enter on **Install/Enable suggested extensions**
+
+![alt text](docs/codespace/select_kernel/install_ext.png)
+
+
 Press enter on **Python Environments**
 
 ![alt text](docs/codespace/select_kernel/python_env.png)
