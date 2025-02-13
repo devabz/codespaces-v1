@@ -12,6 +12,7 @@ Now a new window appears asking you to configure your new codespace.
 2. Leave Branch as is
 3. Select the region which makes sense for you
 4. Select a machine type, a 2-core will suffice
+5. Click **Create codespace**
 
 ![alt text](docs/codespace/create_new/codespace.png)
 
