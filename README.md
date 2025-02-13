@@ -1,14 +1,5 @@
 # codespaces-v1
 
-## Documentation
-
-Hit `ctrl+shift+p` search for devcontainer 
-
-https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/setting-up-your-python-project-for-codespaces
-
-## Jupyter IPykernel 
-How to bypass the choice of Python kernel 
-
 # How To Run
 ## Create New Codespace
 Click the **Open in GitHub Codespaces** button
