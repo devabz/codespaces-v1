@@ -29,7 +29,7 @@ Press enter on **Python Environments**
 ![alt text](docs/codespace/select_kernel/python_env.png)
 
 
-Press enter on **Python 3.9.21**
+Press enter on **Python 3.6.13**
 
 ![alt text](docs/codespace/select_kernel/python_ver.png)
 
