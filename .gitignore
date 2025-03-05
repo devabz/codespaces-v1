@@ -1,3 +1,9 @@
 .idea/
 __pycache__/
 NOTES.md
+#data/
+#docs
+#gnuplot/
+#images/
+#src/
+#main.ipynb/
