@@ -17,7 +17,7 @@
 
 	// Use 'postCreateCommand' to run commands after the container is created.
 
-	"postCreateCommand": "pip install --user -r requirements.txt"
+	"postCreateCommand": "./setup.sh"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
