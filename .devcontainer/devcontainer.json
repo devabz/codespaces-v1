@@ -4,7 +4,6 @@
 	"name": "Python 3.6.13",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"image": "python:3.6.13-buster", // CONFIGURE PYTHON VERSION
-	"workspaceFolder": "ModelDescriptions/RoomModelPython",
 	"features": {
 		"ghcr.io/devcontainers/features/git:1": {}
 	},
@@ -16,6 +15,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
+	"workspaceFolder": "ModelDescriptions/RoomModelPython",
 	"postCreateCommand": "pip install --user -r requirements.txt"
 
 	// Configure tool-specific properties.
