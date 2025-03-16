@@ -18,7 +18,7 @@
 	// Use 'postCreateCommand' to run commands after the container is created.
 
 	"postCreateCommand": "chmod +x ./setup.sh && ./setup.sh",
-	"postStartCommand": "code --install-extension ms-python.python && code --install-extension ms-toolsai.jupyter"
+	"postStartCommand": "bash -c 'code --install-extension ms-python.python && code --install-extension ms-toolsai.jupyter'"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
