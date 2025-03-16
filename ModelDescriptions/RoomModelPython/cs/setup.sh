@@ -1,5 +1,5 @@
 # INSTALL REQUIREMENTS
-pip install --user -r requirements.txt
+pip install --user -r cs/requirements.txt
 
 # INSTALL GNUPLOT
 apt update 
