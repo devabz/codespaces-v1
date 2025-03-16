@@ -17,8 +17,7 @@
 
 	// Use 'postCreateCommand' to run commands after the container is created.
 
-	"postCreateCommand": "chmod +x ./setup.sh && ./setup.sh",
-	"postStartCommand": "chmod +x ./start.sh && ./start.sh"
+	"postCreateCommand": "chmod +x ./setup.sh && ./setup.sh"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
