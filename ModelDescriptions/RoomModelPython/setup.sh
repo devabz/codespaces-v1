@@ -9,5 +9,5 @@ apt install gnuplot -y
 rm -rf $(find /usr/bin -type f -name python*)
 
 # INSTALL NECESSARY VSCODE EXTENSIONS
-code --install-extension ms-python.python
-code --install-extension ms-toolsai.jupyter
+#code --install-extension ms-python.python
+#code --install-extension ms-toolsai.jupyter
